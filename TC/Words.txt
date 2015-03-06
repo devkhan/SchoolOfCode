@@ -1,0 +1,200 @@
+One who is out to subvert a government
+Anarchist
+One who is recovering from illness
+Convalescent
+One who is all powerful
+Omnipotent
+One who is present everywhere
+Omnipresent
+One who knows everything
+Omniscient
+One who is easily deceived
+Gullible
+One who does not make mistakes
+Infallible
+One who can do anything for money
+Mercenary
+One who has no money
+Pauper
+One who changes sides
+Turncoat
+One who works for free
+Volunteer
+One who loves books
+Bibliophile
+One who can speak two languages
+Bilingual
+One who loves mankind
+Philanthropist
+One who hates mankind
+Misanthrope
+One who looks on the bright side of things
+Optimist
+One who looks on the dark side of things
+Pessimist
+One who doubts the existence of god
+Agnostic
+One who pretends to be what he is not
+Hypocrite
+One incapable of being tired
+Indefatigable
+One who helps others Good
+Samaritan
+One who copies from other writers
+Plagiarist
+One who hates women
+Misogynist
+One who knows many languages
+Polyglot
+One who is fond of sensuous pleasures
+Epicure
+One who thinks only of himself
+Egoist
+One who thinks only of welfare of women
+Feminist
+One who is indifferent to pleasure or pain
+Stoic
+One who is quite like a woman
+Effeminate
+One who has strange habits
+Eccentric
+One who speaks less
+Reticent
+One who goes on foot 
+Pedestrian
+One who believes in fate 
+Fatalist
+One who dies without a Will 
+Intestate
+One who always thinks himself to be ill 
+Valetudinarian
+A Government by the people 
+Democracy
+A Government by a king or queen 
+Monarchy
+A Government by the officials 
+Bureaucracy
+A Government by the rich 
+Plutocracy
+A Government by the few 
+Oligarchy
+A Government by the Nobles 
+Aristocracy
+A Government by one 
+Autocracy
+Rule by the mob 
+Mobocracy
+That through which light can pass
+Transparent
+That through which light cannot pass 
+Opaque
+That through which light can partly pass 
+Translucent
+A sentence whose meaning is unclear 
+Ambiguous
+A place where orphans live 
+Orphanage
+That which cannot be described 
+Indescribable
+That which cannot be imitated 
+Inimitable
+That which cannot be avoided 
+Inevitable
+A position for which no salary is paid 
+Honorary
+That which cannot be defended 
+Indefensible
+Practice of having several wives 
+Polygamy
+Practice of having several husbands 
+Polyandry
+Practice of having one wife or husband 
+Monogamy
+Practice of having two wives or husbands 
+Bigamy
+That which is not likely to happen 
+Improbable
+People living at the same time 
+Contemporaries
+A book published after the death of its author 
+Posthumous
+A book written by an unknown author 
+Anonymous
+A life history written by oneself 
+Autobiography
+A life history written by somebody else 
+Biography
+People who work together
+Colleagues
+One who eats too much 
+Glutton
+That which cannot be satisfied 
+Insatiable
+One who questions everything 
+Cynic
+A flesh eating animal 
+Carnivorous
+A grass eating animal 
+Herbivorous
+One who lives in a foreign country 
+Immigrant
+To transfer one's authority to another 
+Delegate
+One who is a newcomer 
+Neophyte
+That which is lawful 
+Legal
+That which is against law 
+Illegal
+One who is unmarried 
+Celibate
+A game in which no one wins 
+Draw
+A study of man
+Anthropology
+A study of races 
+Ethnology
+A study of the body 
+Physiology
+A study of animals 
+Zoology
+A study of birds 
+Ornithology
+A study of ancient things 
+Archaeology
+A study of derivation of words 
+Etymology
+Murder of a human being 
+Homicide
+Murder of a father
+Patricide
+Murder of a mother 
+Matricide
+Murder of an brother 
+Fratricide
+Murder of an infant 
+Infanticide
+Murder of self 
+Suicide
+Murder of the king
+Regicide
+To free somebody from all blame
+Exonerate
+To write under a different name
+Pseudonym
+A thing no longer in use
+Obsolete
+A handwriting that cannot be read
+Illegible
+Words written on the tomb of a person
+Epitaph
+One who is greedy for money
+Avaricious
+Something that cannot be imitated
+Inimitable
+One who doesn't know how to read and write
+Illiterate
+A person's peculiar habit
+Idiosyncrasy
+An animal who preys on other animals
+Predator

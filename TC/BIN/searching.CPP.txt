@@ -1,0 +1,30 @@
+
+#include<iostream.h>
+#include<conio.h>
+int main()
+{
+int item[5];
+int s;
+int i,j,t=0;
+clrscr();
+cout<<"enter nos"<<endl;
+for(i=0;i<10;i++)
+cin>>item[i];
+cout<<"enter no tobe searched : ";
+cin>>s;
+for(i=0;i<10;i++)
+{
+if(item[i]==s)
+{
+t=1;
+break;
+}
+ }
+if(t==1)
+cout<<"searched"<<i+1<<endl;
+else
+cout<<"not searched"<<endl;
+
+getch();
+return 0;
+}
