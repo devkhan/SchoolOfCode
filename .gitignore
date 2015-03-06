@@ -1,3 +1,22 @@
+# Executables
+
+*.[Ee][Xx][Ee]
+
+# Object code
+
+*.[Oo][Bb][Jj]
+
+# Backup files
+
+*.[Bb][Aa][Kk]
+
+# Others
+
+*.dll
+*Debug*
+Files/*
+*.SWP
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
